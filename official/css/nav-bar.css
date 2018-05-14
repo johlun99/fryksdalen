@@ -1,0 +1,10 @@
+#nav-bar {
+	width 100vw;
+}
+
+.nav-bar-part {
+	text-align: center;
+	float: left;
+	width: calc(100% / 3);
+	background-color: #006600;
+}
