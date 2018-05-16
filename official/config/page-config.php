@@ -1,5 +1,5 @@
 <?php
-define("START", "<!DOCTYPE html><html lang='sv'><head>");
+define("START", "<!DOCTYPE html><html lang='sv'><head><meta charset='UTF-8'>");
 
 define("INCLUDES", "<link rel='stylesheet' href='bootstrap/bootstrap.min.css'>");
 
